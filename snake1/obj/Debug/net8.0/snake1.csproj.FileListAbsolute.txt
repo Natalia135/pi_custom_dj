@@ -1,0 +1,14 @@
+C:\Users\Natalia\source\repos\snake1\snake1\bin\Debug\net8.0\snake1.exe
+C:\Users\Natalia\source\repos\snake1\snake1\bin\Debug\net8.0\snake1.deps.json
+C:\Users\Natalia\source\repos\snake1\snake1\bin\Debug\net8.0\snake1.runtimeconfig.json
+C:\Users\Natalia\source\repos\snake1\snake1\bin\Debug\net8.0\snake1.dll
+C:\Users\Natalia\source\repos\snake1\snake1\bin\Debug\net8.0\snake1.pdb
+C:\Users\Natalia\source\repos\snake1\snake1\obj\Debug\net8.0\snake1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalia\source\repos\snake1\snake1\obj\Debug\net8.0\snake1.AssemblyInfoInputs.cache
+C:\Users\Natalia\source\repos\snake1\snake1\obj\Debug\net8.0\snake1.AssemblyInfo.cs
+C:\Users\Natalia\source\repos\snake1\snake1\obj\Debug\net8.0\snake1.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\source\repos\snake1\snake1\obj\Debug\net8.0\snake1.dll
+C:\Users\Natalia\source\repos\snake1\snake1\obj\Debug\net8.0\refint\snake1.dll
+C:\Users\Natalia\source\repos\snake1\snake1\obj\Debug\net8.0\snake1.pdb
+C:\Users\Natalia\source\repos\snake1\snake1\obj\Debug\net8.0\snake1.genruntimeconfig.cache
+C:\Users\Natalia\source\repos\snake1\snake1\obj\Debug\net8.0\ref\snake1.dll
